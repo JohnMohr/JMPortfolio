@@ -1,4 +1,3 @@
 #dropdown-menu {
-    float: right;
-    position:relative;left:0
+    margin-left: auto !important
 }
