@@ -25,6 +25,9 @@ body {
 #contactimg {
   padding-left: 20px;
 }
+#biography {
+  padding: 20px;
+}
 
 /* #dropdown-menu {
   margin-left: auto !important
