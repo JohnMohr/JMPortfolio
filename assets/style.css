@@ -8,9 +8,13 @@ body {
 .container {
   background-color:slategray;
   margin: 25px;
-  border: 1px teal
+  padding: 5px;
+  border: 2px teal
 }
 
+.proimg {
+  padding-left: 10px;
+}
 
 /* #dropdown-menu {
   margin-left: auto !important
