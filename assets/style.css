@@ -6,8 +6,11 @@ body {
   }
 
 .container {
-  background-color:slategray; 
+  background-color:slategray;
+  margin: 25px;
+  border: 1px teal
 }
+
 
 /* #dropdown-menu {
   margin-left: auto !important
