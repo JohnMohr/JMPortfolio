@@ -12,8 +12,18 @@ body {
   border: 2px teal
 }
 
-.proimg {
-  padding-left: 10px;
+.container-title {
+  background-color:slategray;
+  margin: 5px;
+  padding: 5px;
+  border: 2px teal
+}
+
+#profileimg {
+  padding-left: 40px;
+}
+#contactimg {
+  padding-left: 20px;
 }
 
 /* #dropdown-menu {
